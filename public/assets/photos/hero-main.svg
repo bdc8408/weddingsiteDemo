@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Hero placeholder image</title>
+  <desc id="desc">Abstract art deco style placeholder for hero background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f2d1d"/>
+      <stop offset="100%" stop-color="#5f7659"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="300" cy="210" r="180" fill="#d4a94a" fill-opacity="0.22"/>
+  <circle cx="1260" cy="760" r="230" fill="#deead7" fill-opacity="0.18"/>
+  <path d="M0 780 L1600 520 L1600 1000 L0 1000 Z" fill="#384835" fill-opacity="0.5"/>
+  <g stroke="#e2c882" stroke-opacity="0.45" stroke-width="3" fill="none">
+    <path d="M420 420 L800 230 L1180 420"/>
+    <path d="M470 500 L800 335 L1130 500"/>
+    <path d="M520 580 L800 440 L1080 580"/>
+  </g>
+  <text x="50%" y="88%" text-anchor="middle" font-size="44" fill="#f8f5ee" font-family="Georgia, serif" letter-spacing="3">DEMO HERO ARTWORK</text>
+</svg>

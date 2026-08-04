@@ -1,0 +1,4 @@
+- Keep the wedding site mobile-first.
+- Preserve the retro-modern and art deco visual direction.
+- Keep shuttle logistics highly visible throughout the page.
+- Treat placeholder media and FAQ content as temporary until replaced.

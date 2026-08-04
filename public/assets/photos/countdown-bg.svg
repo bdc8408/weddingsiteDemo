@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Countdown placeholder image</title>
+  <desc id="desc">Abstract gradient background for countdown section.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#324a2e"/>
+      <stop offset="100%" stop-color="#1c261a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#e2c882" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#e2c882" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <rect width="1600" height="1000" fill="url(#glow)"/>
+  <g fill="#f1ede4" fill-opacity="0.12">
+    <rect x="210" y="220" width="120" height="560"/>
+    <rect x="420" y="170" width="120" height="620"/>
+    <rect x="630" y="260" width="120" height="500"/>
+    <rect x="840" y="190" width="120" height="600"/>
+    <rect x="1050" y="240" width="120" height="520"/>
+    <rect x="1260" y="170" width="120" height="620"/>
+  </g>
+  <text x="50%" y="90%" text-anchor="middle" font-size="42" fill="#f8f5ee" font-family="Georgia, serif" letter-spacing="2">COUNTDOWN BACKDROP</text>
+</svg>

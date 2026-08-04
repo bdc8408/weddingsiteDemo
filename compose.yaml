@@ -1,0 +1,8 @@
+services:
+  weddingsite:
+    build:
+      context: .
+    container_name: weddingsite
+    restart: unless-stopped
+    ports:
+      - "8383:8383"
